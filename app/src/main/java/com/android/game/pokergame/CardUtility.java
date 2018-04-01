@@ -1,4 +1,4 @@
-package dah2.dbs.com.pokergame;
+package com.android.game.pokergame;
 
 import java.util.ArrayList;
 import java.util.Collections;

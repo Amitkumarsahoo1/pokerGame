@@ -1,4 +1,4 @@
-package dah2.dbs.com.pokergame;
+package com.android.game.pokergame;
 
 /**
  * Created by Prateek on 22-03-2018.

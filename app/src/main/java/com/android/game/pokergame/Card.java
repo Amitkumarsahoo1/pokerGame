@@ -1,10 +1,10 @@
-package dah2.dbs.com.pokergame;
+package com.android.game.pokergame;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Random;
+
 /**
  * Created by Prateek on 22-03-2018.
  */

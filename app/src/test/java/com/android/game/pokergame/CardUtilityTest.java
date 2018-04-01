@@ -1,4 +1,4 @@
-package dah2.dbs.com.pokergame;
+package com.android.game.pokergame;
 
 import org.junit.Assert;
 import org.junit.Test;

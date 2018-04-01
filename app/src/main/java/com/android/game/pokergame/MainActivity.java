@@ -1,4 +1,4 @@
-package dah2.dbs.com.pokergame;
+package com.android.game.pokergame;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

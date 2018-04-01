@@ -1,4 +1,4 @@
-package dah2.dbs.com.pokergame;
+package com.android.game.pokergame;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

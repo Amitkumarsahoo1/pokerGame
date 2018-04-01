@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dah2.dbs.com.pokergame">
+    package="com.android.game.pokergame">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@drawable/back"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.android.game.pokergame.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
